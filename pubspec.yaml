@@ -28,7 +28,7 @@ dependencies:
   ferry: ^0.14.2
   http: ^1.1.0
 
-  force_directed_graphview: ^0.4.1
+  force_directed_graphview: ^0.4.2
   flutter_expandable_fab: ^2.0.0
   cached_network_image: ^3.3.0
   vector_graphics: ^1.1.9+1

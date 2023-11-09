@@ -476,10 +476,10 @@ packages:
     dependency: "direct main"
     description:
       name: force_directed_graphview
-      sha256: e3c1275516c1f33328dcb206a1fd5c4bf6bed53f4ea7488bedd58fe91f0a4490
+      sha256: e2579cf0b317c137195faeebfbbdcde2607eb2fe7ffc0efddd50edc11294938f
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.1"
+    version: "0.4.2"
   fresh:
     dependency: transitive
     description:
